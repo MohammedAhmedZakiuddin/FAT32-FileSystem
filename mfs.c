@@ -1,13 +1,3 @@
-/*
-    Names for Group:      Abdulla Sakallah - Section 003 - 1001846204 || Mohammed Ahmed Zakiuddin - Section 001 - 1001675091                        
-*/
-
-/*
-  Hello Professor, we implemented absolute/relative path so can you check for that when grading : > Thanks!
-
-*/
-
-
 #define _GNU_SOURCE
 
 #include <stdio.h>
