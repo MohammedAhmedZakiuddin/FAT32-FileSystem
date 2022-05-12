@@ -30,7 +30,7 @@ This command shall retrieve the file from the FAT 32 image and place it in your 
 error: <br />
 Prints if the file or directory does not exist then your program shall output “Error: File not found”. <br />
 
-cd <directory> <br />
+cd <<directory>> <br />
 This command changes the current working directory to the given directory. <br />
 Your program shall support relative paths, e.g cd ../name and absolute paths. <br />
 
