@@ -45,3 +45,6 @@ Deletes the file from the file system. <br />
   
 undel filename <br />
 Un-deletes the file from the file system. <br />
+
+Important: 
+Email me for disk image (FAT32.img).
